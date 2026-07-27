@@ -1,0 +1,10 @@
+{
+  "description": "A comprehensive SaaS platform delivering real-time monitoring, AI-driven safety insights, and load management for commercial vehicle fleets.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
